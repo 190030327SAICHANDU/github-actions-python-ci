@@ -1,4 +1,3 @@
-function:
 import unittest
 from src.calculator import add, subtract, divide 
 class TestCalculator(unittest.TestCase):
